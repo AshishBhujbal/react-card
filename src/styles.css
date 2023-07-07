@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 300px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 50px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.name {
+  color: black;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  box-shadow: 1px 1px 100px green;
+  border-radius: 50%;
+}
+
+.description,.description-text {
+  color:green
+}
+}
+.description-text{
+  padding-left: 30px;
+  padding-right: 30px;
+  color:green
+}
